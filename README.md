@@ -15,17 +15,14 @@
 
    <h2>Figures</h2>
    <h3>1. Voltage Levels and Branch Losses (Peak Hour)</h3>
-    <img src="VLBL.png" alt="Voltage Levels and Branch Losses" width="600"/>
+    <img src="VLBL.png" alt="Voltage Levels and Branch Losses"/>
 
   <h3>2. Voltage Levels Across Buses (24 Hours) </h3>
-    <img src="VL3.png" alt="Voltage Levels" width="600"/>
+    <img src="VL3.png" alt="Voltage Levels"/>
    <h3>3. Branch Losses (24 Hours)</h3>
-    <img src="L3.png" alt="Branch Losses" width="600"/>
+    <img src="L3.png" alt="Branch Losses"/>
 <h3>4. Hourly Power Loss </h3>
-    <img src="HL.png" alt="Hourly Power Loss" width="600"/>
+    <img src="HL.png" alt="Hourly Power Loss"/>
 
-
-   <h2>License</h2>
-    <p>This project is licensed under the MIT License.</p>
 </body>
 </html>
