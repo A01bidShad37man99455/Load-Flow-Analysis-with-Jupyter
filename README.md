@@ -14,17 +14,15 @@
     </ul>
 
    <h2>Figures</h2>
-    <h3>1. Hourly Power Loss</h3>
-    <img src="images/Hourly_Power_Loss.png" alt="Hourly Power Loss" width="600"/>
+   <h3>1. Voltage Levels and Branch Losses (Peak Hour)</h3>
+    <img src="VLBL.png" alt="Voltage Levels and Branch Losses" width="600"/>
 
-  <h3>2. Voltage Levels Across Buses</h3>
-    <img src="images/Voltage_Levels.png" alt="Voltage Levels" width="600"/>
-
-   <h3>3. Branch Losses</h3>
-    <img src="images/Branch_Losses.png" alt="Branch Losses" width="600"/>
-
-   <h3>4. Voltage Levels and Branch Losses (Subplots)</h3>
-    <img src="images/Voltage_Levels_Branch_Losses.png" alt="Voltage Levels and Branch Losses" width="600"/>
+  <h3>2. Voltage Levels Across Buses (24 Hours) </h3>
+    <img src="VL3.png" alt="Voltage Levels" width="600"/>
+   <h3>3. Branch Losses (24 Hours)</h3>
+    <img src="L3.png" alt="Branch Losses" width="600"/>
+<h3>4. Hourly Power Loss </h3>
+    <img src="HL.png" alt="Hourly Power Loss" width="600"/>
 
 
    <h2>License</h2>
